@@ -1,0 +1,1609 @@
+MAXIMIZE
++alpha_1 +alpha_2 +alpha_3 +alpha_4 +alpha_5 +alpha_6 +alpha_7 +alpha_8 +alpha_9 +alpha_10 +alpha_11 +alpha_12 +alpha_13 +alpha_14 +alpha_15 +alpha_16 +alpha_17 +alpha_18 +alpha_19 +alpha_20 +alpha_21 +alpha_22 +alpha_23 +alpha_24 +alpha_25 +alpha_26 +alpha_27 +alpha_28 +alpha_29 +alpha_30 +alpha_31 +alpha_32 +alpha_33 +alpha_34 +alpha_35 +alpha_36 +alpha_37 +alpha_38 +alpha_39 +alpha_40 +alpha_41 +alpha_42 +alpha_43 +alpha_44 +alpha_45 +alpha_46 +alpha_47 +alpha_48 +alpha_49 +alpha_50 +alpha_51 +alpha_52 +alpha_53 +alpha_54 +alpha_55 +alpha_56 +alpha_57 +alpha_58 +alpha_59 +alpha_60 +alpha_61 +alpha_62 +alpha_63 +alpha_64 +alpha_65 +alpha_66 +alpha_67 +alpha_68 +alpha_69 +alpha_70 +alpha_71 +alpha_72 +alpha_73 +alpha_74 +alpha_75 +alpha_76 +alpha_77 +alpha_78 +alpha_79 +alpha_80 
+SUBJECT TO
++z_1 +z_2 +z_3 +z_4 +z_5 +z_6 +z_7 +z_8 +z_9 +z_10 +z_11 +z_12 +z_13 +z_14 +z_15 +z_16 +z_17 +z_18 +z_19 +z_20 +z_21 +z_22 +z_23 +z_24 +z_25 +z_26 +z_27 +z_28 +z_29 +z_30 +z_31 +z_32 +z_33 +z_34 +z_35 +z_36 +z_37 +z_38 +z_39 +z_40 +z_41 +z_42 +z_43 +z_44 +z_45 +z_46 +z_47 +z_48 +z_49 +z_50 +z_51 +z_52 +z_53 +z_54 +z_55 +z_56 +z_57 +z_58 +z_59 +z_60 +z_61 +z_62 +z_63 +z_64 +z_65 +z_66 +z_67 +z_68 +z_69 +z_70 +z_71 +z_72 +z_73 +z_74 +z_75 +z_76 +z_77 +z_78 +z_79 +z_80 <= 2
++x_1 +x_2 +x_3 +x_4 +x_5 +x_6 +x_7 +x_8 +x_9 +x_10 +x_11 +x_12 +x_13 +x_14 +x_15 +x_16 +x_17 +x_18 +x_19 +x_20 +x_21 +x_22 +x_23 +x_24 +x_25 +x_26 +x_27 +x_28 +x_29 +x_30 +x_31 +x_32 +x_33 +x_34 +x_35 +x_36 +x_37 +x_38 +x_39 +x_40 +x_41 +x_42 +x_43 +x_44 +x_45 +x_46 +x_47 +x_48 +x_49 +x_50 +x_51 +x_52 +x_53 +x_54 +x_55 +x_56 +x_57 +x_58 +x_59 +x_60 +x_61 +x_62 +x_63 +x_64 +x_65 +x_66 +x_67 +x_68 +x_69 +x_70 +x_71 +x_72 +x_73 +x_74 +x_75 +x_76 +x_77 +x_78 +x_79 +x_80 <= 2
++alpha_1 -z_1 +y_1 <= 1
++alpha_2 -z_2 +y_2 <= 1
++alpha_3 -z_3 +y_3 <= 1
++alpha_4 -z_4 +y_4 <= 1
++alpha_5 -z_5 +y_5 <= 1
++alpha_6 -z_6 +y_6 <= 1
++alpha_7 -z_7 +y_7 <= 1
++alpha_8 -z_8 +y_8 <= 1
++alpha_9 -z_9 +y_9 <= 1
++alpha_10 -z_10 +y_10 <= 1
++alpha_11 -z_11 +y_11 <= 1
++alpha_12 -z_12 +y_12 <= 1
++alpha_13 -z_13 +y_13 <= 1
++alpha_14 -z_14 +y_14 <= 1
++alpha_15 -z_15 +y_15 <= 1
++alpha_16 -z_16 +y_16 <= 1
++alpha_17 -z_17 +y_17 <= 1
++alpha_18 -z_18 +y_18 <= 1
++alpha_19 -z_19 +y_19 <= 1
++alpha_20 -z_20 +y_20 <= 1
++alpha_21 -z_21 +y_21 <= 1
++alpha_22 -z_22 +y_22 <= 1
++alpha_23 -z_23 +y_23 <= 1
++alpha_24 -z_24 +y_24 <= 1
++alpha_25 -z_25 +y_25 <= 1
++alpha_26 -z_26 +y_26 <= 1
++alpha_27 -z_27 +y_27 <= 1
++alpha_28 -z_28 +y_28 <= 1
++alpha_29 -z_29 +y_29 <= 1
++alpha_30 -z_30 +y_30 <= 1
++alpha_31 -z_31 +y_31 <= 1
++alpha_32 -z_32 +y_32 <= 1
++alpha_33 -z_33 +y_33 <= 1
++alpha_34 -z_34 +y_34 <= 1
++alpha_35 -z_35 +y_35 <= 1
++alpha_36 -z_36 +y_36 <= 1
++alpha_37 -z_37 +y_37 <= 1
++alpha_38 -z_38 +y_38 <= 1
++alpha_39 -z_39 +y_39 <= 1
++alpha_40 -z_40 +y_40 <= 1
++alpha_41 -z_41 +y_41 <= 1
++alpha_42 -z_42 +y_42 <= 1
++alpha_43 -z_43 +y_43 <= 1
++alpha_44 -z_44 +y_44 <= 1
++alpha_45 -z_45 +y_45 <= 1
++alpha_46 -z_46 +y_46 <= 1
++alpha_47 -z_47 +y_47 <= 1
++alpha_48 -z_48 +y_48 <= 1
++alpha_49 -z_49 +y_49 <= 1
++alpha_50 -z_50 +y_50 <= 1
++alpha_51 -z_51 +y_51 <= 1
++alpha_52 -z_52 +y_52 <= 1
++alpha_53 -z_53 +y_53 <= 1
++alpha_54 -z_54 +y_54 <= 1
++alpha_55 -z_55 +y_55 <= 1
++alpha_56 -z_56 +y_56 <= 1
++alpha_57 -z_57 +y_57 <= 1
++alpha_58 -z_58 +y_58 <= 1
++alpha_59 -z_59 +y_59 <= 1
++alpha_60 -z_60 +y_60 <= 1
++alpha_61 -z_61 +y_61 <= 1
++alpha_62 -z_62 +y_62 <= 1
++alpha_63 -z_63 +y_63 <= 1
++alpha_64 -z_64 +y_64 <= 1
++alpha_65 -z_65 +y_65 <= 1
++alpha_66 -z_66 +y_66 <= 1
++alpha_67 -z_67 +y_67 <= 1
++alpha_68 -z_68 +y_68 <= 1
++alpha_69 -z_69 +y_69 <= 1
++alpha_70 -z_70 +y_70 <= 1
++alpha_71 -z_71 +y_71 <= 1
++alpha_72 -z_72 +y_72 <= 1
++alpha_73 -z_73 +y_73 <= 1
++alpha_74 -z_74 +y_74 <= 1
++alpha_75 -z_75 +y_75 <= 1
++alpha_76 -z_76 +y_76 <= 1
++alpha_77 -z_77 +y_77 <= 1
++alpha_78 -z_78 +y_78 <= 1
++alpha_79 -z_79 +y_79 <= 1
++alpha_80 -z_80 +y_80 <= 1
++alpha_3 -alpha_1 -x_3 -z_3 <= 0
++alpha_1 -alpha_3 -x_1 -z_1 <= 0
++alpha_5 -alpha_1 -x_5 -z_5 <= 0
++alpha_1 -alpha_5 -x_1 -z_1 <= 0
++alpha_27 -alpha_1 -x_27 -z_27 <= 0
++alpha_1 -alpha_27 -x_1 -z_1 <= 0
++alpha_32 -alpha_1 -x_32 -z_32 <= 0
++alpha_1 -alpha_32 -x_1 -z_1 <= 0
++alpha_56 -alpha_1 -x_56 -z_56 <= 0
++alpha_1 -alpha_56 -x_1 -z_1 <= 0
++alpha_25 -alpha_2 -x_25 -z_25 <= 0
++alpha_2 -alpha_25 -x_2 -z_2 <= 0
++alpha_30 -alpha_2 -x_30 -z_30 <= 0
++alpha_2 -alpha_30 -x_2 -z_2 <= 0
++alpha_52 -alpha_2 -x_52 -z_52 <= 0
++alpha_2 -alpha_52 -x_2 -z_2 <= 0
++alpha_4 -alpha_3 -x_4 -z_4 <= 0
++alpha_3 -alpha_4 -x_3 -z_3 <= 0
++alpha_22 -alpha_3 -x_22 -z_22 <= 0
++alpha_3 -alpha_22 -x_3 -z_3 <= 0
++alpha_35 -alpha_3 -x_35 -z_35 <= 0
++alpha_3 -alpha_35 -x_3 -z_3 <= 0
++alpha_18 -alpha_4 -x_18 -z_18 <= 0
++alpha_4 -alpha_18 -x_4 -z_4 <= 0
++alpha_58 -alpha_4 -x_58 -z_58 <= 0
++alpha_4 -alpha_58 -x_4 -z_4 <= 0
++alpha_60 -alpha_4 -x_60 -z_60 <= 0
++alpha_4 -alpha_60 -x_4 -z_4 <= 0
++alpha_61 -alpha_4 -x_61 -z_61 <= 0
++alpha_4 -alpha_61 -x_4 -z_4 <= 0
++alpha_65 -alpha_4 -x_65 -z_65 <= 0
++alpha_4 -alpha_65 -x_4 -z_4 <= 0
++alpha_74 -alpha_4 -x_74 -z_74 <= 0
++alpha_4 -alpha_74 -x_4 -z_4 <= 0
++alpha_30 -alpha_5 -x_30 -z_30 <= 0
++alpha_5 -alpha_30 -x_5 -z_5 <= 0
++alpha_34 -alpha_5 -x_34 -z_34 <= 0
++alpha_5 -alpha_34 -x_5 -z_5 <= 0
++alpha_36 -alpha_5 -x_36 -z_36 <= 0
++alpha_5 -alpha_36 -x_5 -z_5 <= 0
++alpha_29 -alpha_6 -x_29 -z_29 <= 0
++alpha_6 -alpha_29 -x_6 -z_6 <= 0
++alpha_10 -alpha_7 -x_10 -z_10 <= 0
++alpha_7 -alpha_10 -x_7 -z_7 <= 0
++alpha_23 -alpha_7 -x_23 -z_23 <= 0
++alpha_7 -alpha_23 -x_7 -z_7 <= 0
++alpha_70 -alpha_7 -x_70 -z_70 <= 0
++alpha_7 -alpha_70 -x_7 -z_7 <= 0
++alpha_71 -alpha_7 -x_71 -z_71 <= 0
++alpha_7 -alpha_71 -x_7 -z_7 <= 0
++alpha_76 -alpha_7 -x_76 -z_76 <= 0
++alpha_7 -alpha_76 -x_7 -z_7 <= 0
++alpha_28 -alpha_8 -x_28 -z_28 <= 0
++alpha_8 -alpha_28 -x_8 -z_8 <= 0
++alpha_79 -alpha_8 -x_79 -z_79 <= 0
++alpha_8 -alpha_79 -x_8 -z_8 <= 0
++alpha_14 -alpha_9 -x_14 -z_14 <= 0
++alpha_9 -alpha_14 -x_9 -z_9 <= 0
++alpha_23 -alpha_9 -x_23 -z_23 <= 0
++alpha_9 -alpha_23 -x_9 -z_9 <= 0
++alpha_33 -alpha_9 -x_33 -z_33 <= 0
++alpha_9 -alpha_33 -x_9 -z_9 <= 0
++alpha_43 -alpha_9 -x_43 -z_43 <= 0
++alpha_9 -alpha_43 -x_9 -z_9 <= 0
++alpha_51 -alpha_9 -x_51 -z_51 <= 0
++alpha_9 -alpha_51 -x_9 -z_9 <= 0
++alpha_60 -alpha_9 -x_60 -z_60 <= 0
++alpha_9 -alpha_60 -x_9 -z_9 <= 0
++alpha_67 -alpha_9 -x_67 -z_67 <= 0
++alpha_9 -alpha_67 -x_9 -z_9 <= 0
++alpha_69 -alpha_9 -x_69 -z_69 <= 0
++alpha_9 -alpha_69 -x_9 -z_9 <= 0
++alpha_70 -alpha_9 -x_70 -z_70 <= 0
++alpha_9 -alpha_70 -x_9 -z_9 <= 0
++alpha_73 -alpha_9 -x_73 -z_73 <= 0
++alpha_9 -alpha_73 -x_9 -z_9 <= 0
++alpha_15 -alpha_10 -x_15 -z_15 <= 0
++alpha_10 -alpha_15 -x_10 -z_10 <= 0
++alpha_54 -alpha_10 -x_54 -z_54 <= 0
++alpha_10 -alpha_54 -x_10 -z_10 <= 0
++alpha_76 -alpha_10 -x_76 -z_76 <= 0
++alpha_10 -alpha_76 -x_10 -z_10 <= 0
++alpha_24 -alpha_11 -x_24 -z_24 <= 0
++alpha_11 -alpha_24 -x_11 -z_11 <= 0
++alpha_27 -alpha_11 -x_27 -z_27 <= 0
++alpha_11 -alpha_27 -x_11 -z_11 <= 0
++alpha_20 -alpha_12 -x_20 -z_20 <= 0
++alpha_12 -alpha_20 -x_12 -z_12 <= 0
++alpha_60 -alpha_12 -x_60 -z_60 <= 0
++alpha_12 -alpha_60 -x_12 -z_12 <= 0
++alpha_69 -alpha_12 -x_69 -z_69 <= 0
++alpha_12 -alpha_69 -x_12 -z_12 <= 0
++alpha_78 -alpha_12 -x_78 -z_78 <= 0
++alpha_12 -alpha_78 -x_12 -z_12 <= 0
++alpha_16 -alpha_13 -x_16 -z_16 <= 0
++alpha_13 -alpha_16 -x_13 -z_13 <= 0
++alpha_31 -alpha_13 -x_31 -z_31 <= 0
++alpha_13 -alpha_31 -x_13 -z_13 <= 0
++alpha_34 -alpha_13 -x_34 -z_34 <= 0
++alpha_13 -alpha_34 -x_13 -z_13 <= 0
++alpha_73 -alpha_13 -x_73 -z_73 <= 0
++alpha_13 -alpha_73 -x_13 -z_13 <= 0
++alpha_76 -alpha_13 -x_76 -z_76 <= 0
++alpha_13 -alpha_76 -x_13 -z_13 <= 0
++alpha_19 -alpha_14 -x_19 -z_19 <= 0
++alpha_14 -alpha_19 -x_14 -z_14 <= 0
++alpha_43 -alpha_14 -x_43 -z_43 <= 0
++alpha_14 -alpha_43 -x_14 -z_14 <= 0
++alpha_56 -alpha_14 -x_56 -z_56 <= 0
++alpha_14 -alpha_56 -x_14 -z_14 <= 0
++alpha_65 -alpha_14 -x_65 -z_65 <= 0
++alpha_14 -alpha_65 -x_14 -z_14 <= 0
++alpha_62 -alpha_15 -x_62 -z_62 <= 0
++alpha_15 -alpha_62 -x_15 -z_15 <= 0
++alpha_80 -alpha_15 -x_80 -z_80 <= 0
++alpha_15 -alpha_80 -x_15 -z_15 <= 0
++alpha_46 -alpha_16 -x_46 -z_46 <= 0
++alpha_16 -alpha_46 -x_16 -z_16 <= 0
++alpha_57 -alpha_16 -x_57 -z_57 <= 0
++alpha_16 -alpha_57 -x_16 -z_16 <= 0
++alpha_59 -alpha_17 -x_59 -z_59 <= 0
++alpha_17 -alpha_59 -x_17 -z_17 <= 0
++alpha_31 -alpha_18 -x_31 -z_31 <= 0
++alpha_18 -alpha_31 -x_18 -z_18 <= 0
++alpha_56 -alpha_18 -x_56 -z_56 <= 0
++alpha_18 -alpha_56 -x_18 -z_18 <= 0
++alpha_40 -alpha_19 -x_40 -z_40 <= 0
++alpha_19 -alpha_40 -x_19 -z_19 <= 0
++alpha_55 -alpha_19 -x_55 -z_55 <= 0
++alpha_19 -alpha_55 -x_19 -z_19 <= 0
++alpha_27 -alpha_20 -x_27 -z_27 <= 0
++alpha_20 -alpha_27 -x_20 -z_20 <= 0
++alpha_41 -alpha_20 -x_41 -z_41 <= 0
++alpha_20 -alpha_41 -x_20 -z_20 <= 0
++alpha_67 -alpha_20 -x_67 -z_67 <= 0
++alpha_20 -alpha_67 -x_20 -z_20 <= 0
++alpha_68 -alpha_20 -x_68 -z_68 <= 0
++alpha_20 -alpha_68 -x_20 -z_20 <= 0
++alpha_35 -alpha_21 -x_35 -z_35 <= 0
++alpha_21 -alpha_35 -x_21 -z_21 <= 0
++alpha_70 -alpha_21 -x_70 -z_70 <= 0
++alpha_21 -alpha_70 -x_21 -z_21 <= 0
++alpha_72 -alpha_21 -x_72 -z_72 <= 0
++alpha_21 -alpha_72 -x_21 -z_21 <= 0
++alpha_29 -alpha_22 -x_29 -z_29 <= 0
++alpha_22 -alpha_29 -x_22 -z_22 <= 0
++alpha_58 -alpha_22 -x_58 -z_58 <= 0
++alpha_22 -alpha_58 -x_22 -z_22 <= 0
++alpha_38 -alpha_23 -x_38 -z_38 <= 0
++alpha_23 -alpha_38 -x_23 -z_23 <= 0
++alpha_40 -alpha_23 -x_40 -z_40 <= 0
++alpha_23 -alpha_40 -x_23 -z_23 <= 0
++alpha_42 -alpha_23 -x_42 -z_42 <= 0
++alpha_23 -alpha_42 -x_23 -z_23 <= 0
++alpha_47 -alpha_23 -x_47 -z_47 <= 0
++alpha_23 -alpha_47 -x_23 -z_23 <= 0
++alpha_42 -alpha_24 -x_42 -z_42 <= 0
++alpha_24 -alpha_42 -x_24 -z_24 <= 0
++alpha_54 -alpha_24 -x_54 -z_54 <= 0
++alpha_24 -alpha_54 -x_24 -z_24 <= 0
++alpha_73 -alpha_24 -x_73 -z_73 <= 0
++alpha_24 -alpha_73 -x_24 -z_24 <= 0
++alpha_80 -alpha_24 -x_80 -z_80 <= 0
++alpha_24 -alpha_80 -x_24 -z_24 <= 0
++alpha_29 -alpha_25 -x_29 -z_29 <= 0
++alpha_25 -alpha_29 -x_25 -z_25 <= 0
++alpha_43 -alpha_25 -x_43 -z_43 <= 0
++alpha_25 -alpha_43 -x_25 -z_25 <= 0
++alpha_46 -alpha_25 -x_46 -z_46 <= 0
++alpha_25 -alpha_46 -x_25 -z_25 <= 0
++alpha_64 -alpha_25 -x_64 -z_64 <= 0
++alpha_25 -alpha_64 -x_25 -z_25 <= 0
++alpha_71 -alpha_25 -x_71 -z_71 <= 0
++alpha_25 -alpha_71 -x_25 -z_25 <= 0
++alpha_74 -alpha_25 -x_74 -z_74 <= 0
++alpha_25 -alpha_74 -x_25 -z_25 <= 0
++alpha_36 -alpha_26 -x_36 -z_36 <= 0
++alpha_26 -alpha_36 -x_26 -z_26 <= 0
++alpha_74 -alpha_26 -x_74 -z_74 <= 0
++alpha_26 -alpha_74 -x_26 -z_26 <= 0
++alpha_62 -alpha_27 -x_62 -z_62 <= 0
++alpha_27 -alpha_62 -x_27 -z_27 <= 0
++alpha_72 -alpha_27 -x_72 -z_72 <= 0
++alpha_27 -alpha_72 -x_27 -z_27 <= 0
++alpha_41 -alpha_29 -x_41 -z_41 <= 0
++alpha_29 -alpha_41 -x_29 -z_29 <= 0
++alpha_50 -alpha_29 -x_50 -z_50 <= 0
++alpha_29 -alpha_50 -x_29 -z_29 <= 0
++alpha_44 -alpha_30 -x_44 -z_44 <= 0
++alpha_30 -alpha_44 -x_30 -z_30 <= 0
++alpha_61 -alpha_30 -x_61 -z_61 <= 0
++alpha_30 -alpha_61 -x_30 -z_30 <= 0
++alpha_77 -alpha_30 -x_77 -z_77 <= 0
++alpha_30 -alpha_77 -x_30 -z_30 <= 0
++alpha_47 -alpha_31 -x_47 -z_47 <= 0
++alpha_31 -alpha_47 -x_31 -z_31 <= 0
++alpha_69 -alpha_31 -x_69 -z_69 <= 0
++alpha_31 -alpha_69 -x_31 -z_31 <= 0
++alpha_42 -alpha_32 -x_42 -z_42 <= 0
++alpha_32 -alpha_42 -x_32 -z_32 <= 0
++alpha_63 -alpha_32 -x_63 -z_63 <= 0
++alpha_32 -alpha_63 -x_32 -z_32 <= 0
++alpha_75 -alpha_32 -x_75 -z_75 <= 0
++alpha_32 -alpha_75 -x_32 -z_32 <= 0
++alpha_41 -alpha_33 -x_41 -z_41 <= 0
++alpha_33 -alpha_41 -x_33 -z_33 <= 0
++alpha_69 -alpha_33 -x_69 -z_69 <= 0
++alpha_33 -alpha_69 -x_33 -z_33 <= 0
++alpha_37 -alpha_34 -x_37 -z_37 <= 0
++alpha_34 -alpha_37 -x_34 -z_34 <= 0
++alpha_49 -alpha_34 -x_49 -z_49 <= 0
++alpha_34 -alpha_49 -x_34 -z_34 <= 0
++alpha_73 -alpha_34 -x_73 -z_73 <= 0
++alpha_34 -alpha_73 -x_34 -z_34 <= 0
++alpha_56 -alpha_35 -x_56 -z_56 <= 0
++alpha_35 -alpha_56 -x_35 -z_35 <= 0
++alpha_69 -alpha_35 -x_69 -z_69 <= 0
++alpha_35 -alpha_69 -x_35 -z_35 <= 0
++alpha_39 -alpha_36 -x_39 -z_39 <= 0
++alpha_36 -alpha_39 -x_36 -z_36 <= 0
++alpha_40 -alpha_36 -x_40 -z_40 <= 0
++alpha_36 -alpha_40 -x_36 -z_36 <= 0
++alpha_48 -alpha_36 -x_48 -z_48 <= 0
++alpha_36 -alpha_48 -x_36 -z_36 <= 0
++alpha_56 -alpha_36 -x_56 -z_56 <= 0
++alpha_36 -alpha_56 -x_36 -z_36 <= 0
++alpha_58 -alpha_36 -x_58 -z_58 <= 0
++alpha_36 -alpha_58 -x_36 -z_36 <= 0
++alpha_59 -alpha_36 -x_59 -z_59 <= 0
++alpha_36 -alpha_59 -x_36 -z_36 <= 0
++alpha_71 -alpha_36 -x_71 -z_71 <= 0
++alpha_36 -alpha_71 -x_36 -z_36 <= 0
++alpha_73 -alpha_37 -x_73 -z_73 <= 0
++alpha_37 -alpha_73 -x_37 -z_37 <= 0
++alpha_55 -alpha_38 -x_55 -z_55 <= 0
++alpha_38 -alpha_55 -x_38 -z_38 <= 0
++alpha_57 -alpha_38 -x_57 -z_57 <= 0
++alpha_38 -alpha_57 -x_38 -z_38 <= 0
++alpha_80 -alpha_38 -x_80 -z_80 <= 0
++alpha_38 -alpha_80 -x_38 -z_38 <= 0
++alpha_58 -alpha_39 -x_58 -z_58 <= 0
++alpha_39 -alpha_58 -x_39 -z_39 <= 0
++alpha_61 -alpha_39 -x_61 -z_61 <= 0
++alpha_39 -alpha_61 -x_39 -z_39 <= 0
++alpha_79 -alpha_39 -x_79 -z_79 <= 0
++alpha_39 -alpha_79 -x_39 -z_39 <= 0
++alpha_68 -alpha_40 -x_68 -z_68 <= 0
++alpha_40 -alpha_68 -x_40 -z_40 <= 0
++alpha_45 -alpha_41 -x_45 -z_45 <= 0
++alpha_41 -alpha_45 -x_41 -z_41 <= 0
++alpha_50 -alpha_41 -x_50 -z_50 <= 0
++alpha_41 -alpha_50 -x_41 -z_41 <= 0
++alpha_53 -alpha_41 -x_53 -z_53 <= 0
++alpha_41 -alpha_53 -x_41 -z_41 <= 0
++alpha_54 -alpha_41 -x_54 -z_54 <= 0
++alpha_41 -alpha_54 -x_41 -z_41 <= 0
++alpha_64 -alpha_41 -x_64 -z_64 <= 0
++alpha_41 -alpha_64 -x_41 -z_41 <= 0
++alpha_59 -alpha_43 -x_59 -z_59 <= 0
++alpha_43 -alpha_59 -x_43 -z_43 <= 0
++alpha_54 -alpha_45 -x_54 -z_54 <= 0
++alpha_45 -alpha_54 -x_45 -z_45 <= 0
++alpha_77 -alpha_45 -x_77 -z_77 <= 0
++alpha_45 -alpha_77 -x_45 -z_45 <= 0
++alpha_49 -alpha_46 -x_49 -z_49 <= 0
++alpha_46 -alpha_49 -x_46 -z_46 <= 0
++alpha_59 -alpha_46 -x_59 -z_59 <= 0
++alpha_46 -alpha_59 -x_46 -z_46 <= 0
++alpha_55 -alpha_49 -x_55 -z_55 <= 0
++alpha_49 -alpha_55 -x_49 -z_49 <= 0
++alpha_78 -alpha_49 -x_78 -z_78 <= 0
++alpha_49 -alpha_78 -x_49 -z_49 <= 0
++alpha_72 -alpha_50 -x_72 -z_72 <= 0
++alpha_50 -alpha_72 -x_50 -z_50 <= 0
++alpha_70 -alpha_51 -x_70 -z_70 <= 0
++alpha_51 -alpha_70 -x_51 -z_51 <= 0
++alpha_55 -alpha_52 -x_55 -z_55 <= 0
++alpha_52 -alpha_55 -x_52 -z_52 <= 0
++alpha_77 -alpha_53 -x_77 -z_77 <= 0
++alpha_53 -alpha_77 -x_53 -z_53 <= 0
++alpha_56 -alpha_54 -x_56 -z_56 <= 0
++alpha_54 -alpha_56 -x_54 -z_54 <= 0
++alpha_71 -alpha_54 -x_71 -z_71 <= 0
++alpha_54 -alpha_71 -x_54 -z_54 <= 0
++alpha_62 -alpha_56 -x_62 -z_62 <= 0
++alpha_56 -alpha_62 -x_56 -z_56 <= 0
++alpha_68 -alpha_56 -x_68 -z_68 <= 0
++alpha_56 -alpha_68 -x_56 -z_56 <= 0
++alpha_69 -alpha_59 -x_69 -z_69 <= 0
++alpha_59 -alpha_69 -x_59 -z_59 <= 0
++alpha_78 -alpha_59 -x_78 -z_78 <= 0
++alpha_59 -alpha_78 -x_59 -z_59 <= 0
++alpha_71 -alpha_63 -x_71 -z_71 <= 0
++alpha_63 -alpha_71 -x_63 -z_63 <= 0
++alpha_79 -alpha_63 -x_79 -z_79 <= 0
++alpha_63 -alpha_79 -x_63 -z_63 <= 0
++alpha_68 -alpha_64 -x_68 -z_68 <= 0
++alpha_64 -alpha_68 -x_64 -z_64 <= 0
++alpha_68 -alpha_66 -x_68 -z_68 <= 0
++alpha_66 -alpha_68 -x_66 -z_66 <= 0
++alpha_72 -alpha_66 -x_72 -z_72 <= 0
++alpha_66 -alpha_72 -x_66 -z_66 <= 0
++alpha_71 -alpha_69 -x_71 -z_71 <= 0
++alpha_69 -alpha_71 -x_69 -z_69 <= 0
++alpha_79 -alpha_71 -x_79 -z_79 <= 0
++alpha_71 -alpha_79 -x_71 -z_71 <= 0
++alpha_80 -alpha_71 -x_80 -z_80 <= 0
++alpha_71 -alpha_80 -x_71 -z_71 <= 0
++alpha_75 -alpha_73 -x_75 -z_75 <= 0
++alpha_73 -alpha_75 -x_73 -z_73 <= 0
++alpha_77 -alpha_73 -x_77 -z_77 <= 0
++alpha_73 -alpha_77 -x_73 -z_73 <= 0
++alpha_76 -alpha_74 -x_76 -z_76 <= 0
++alpha_74 -alpha_76 -x_74 -z_74 <= 0
++alpha_79 -alpha_77 -x_79 -z_79 <= 0
++alpha_77 -alpha_79 -x_77 -z_77 <= 0
+UNCERTAINTY SUBJECT TO
++y_1 +y_2 +y_3 +y_4 +y_5 +y_6 +y_7 +y_8 +y_9 +y_10 +y_11 +y_12 +y_13 +y_14 +y_15 +y_16 +y_17 +y_18 +y_19 +y_20 +y_21 +y_22 +y_23 +y_24 +y_25 +y_26 +y_27 +y_28 +y_29 +y_30 +y_31 +y_32 +y_33 +y_34 +y_35 +y_36 +y_37 +y_38 +y_39 +y_40 +y_41 +y_42 +y_43 +y_44 +y_45 +y_46 +y_47 +y_48 +y_49 +y_50 +y_51 +y_52 +y_53 +y_54 +y_55 +y_56 +y_57 +y_58 +y_59 +y_60 +y_61 +y_62 +y_63 +y_64 +y_65 +y_66 +y_67 +y_68 +y_69 +y_70 +y_71 +y_72 +y_73 +y_74 +y_75 +y_76 +y_77 +y_78 +y_79 +y_80 <= 2
+BOUNDS
+0<=x_1<=1
+0<=y_1<=1
+0<=z_1<=1
+0<=alpha_1<=1
+0<=x_2<=1
+0<=y_2<=1
+0<=z_2<=1
+0<=alpha_2<=1
+0<=x_3<=1
+0<=y_3<=1
+0<=z_3<=1
+0<=alpha_3<=1
+0<=x_4<=1
+0<=y_4<=1
+0<=z_4<=1
+0<=alpha_4<=1
+0<=x_5<=1
+0<=y_5<=1
+0<=z_5<=1
+0<=alpha_5<=1
+0<=x_6<=1
+0<=y_6<=1
+0<=z_6<=1
+0<=alpha_6<=1
+0<=x_7<=1
+0<=y_7<=1
+0<=z_7<=1
+0<=alpha_7<=1
+0<=x_8<=1
+0<=y_8<=1
+0<=z_8<=1
+0<=alpha_8<=1
+0<=x_9<=1
+0<=y_9<=1
+0<=z_9<=1
+0<=alpha_9<=1
+0<=x_10<=1
+0<=y_10<=1
+0<=z_10<=1
+0<=alpha_10<=1
+0<=x_11<=1
+0<=y_11<=1
+0<=z_11<=1
+0<=alpha_11<=1
+0<=x_12<=1
+0<=y_12<=1
+0<=z_12<=1
+0<=alpha_12<=1
+0<=x_13<=1
+0<=y_13<=1
+0<=z_13<=1
+0<=alpha_13<=1
+0<=x_14<=1
+0<=y_14<=1
+0<=z_14<=1
+0<=alpha_14<=1
+0<=x_15<=1
+0<=y_15<=1
+0<=z_15<=1
+0<=alpha_15<=1
+0<=x_16<=1
+0<=y_16<=1
+0<=z_16<=1
+0<=alpha_16<=1
+0<=x_17<=1
+0<=y_17<=1
+0<=z_17<=1
+0<=alpha_17<=1
+0<=x_18<=1
+0<=y_18<=1
+0<=z_18<=1
+0<=alpha_18<=1
+0<=x_19<=1
+0<=y_19<=1
+0<=z_19<=1
+0<=alpha_19<=1
+0<=x_20<=1
+0<=y_20<=1
+0<=z_20<=1
+0<=alpha_20<=1
+0<=x_21<=1
+0<=y_21<=1
+0<=z_21<=1
+0<=alpha_21<=1
+0<=x_22<=1
+0<=y_22<=1
+0<=z_22<=1
+0<=alpha_22<=1
+0<=x_23<=1
+0<=y_23<=1
+0<=z_23<=1
+0<=alpha_23<=1
+0<=x_24<=1
+0<=y_24<=1
+0<=z_24<=1
+0<=alpha_24<=1
+0<=x_25<=1
+0<=y_25<=1
+0<=z_25<=1
+0<=alpha_25<=1
+0<=x_26<=1
+0<=y_26<=1
+0<=z_26<=1
+0<=alpha_26<=1
+0<=x_27<=1
+0<=y_27<=1
+0<=z_27<=1
+0<=alpha_27<=1
+0<=x_28<=1
+0<=y_28<=1
+0<=z_28<=1
+0<=alpha_28<=1
+0<=x_29<=1
+0<=y_29<=1
+0<=z_29<=1
+0<=alpha_29<=1
+0<=x_30<=1
+0<=y_30<=1
+0<=z_30<=1
+0<=alpha_30<=1
+0<=x_31<=1
+0<=y_31<=1
+0<=z_31<=1
+0<=alpha_31<=1
+0<=x_32<=1
+0<=y_32<=1
+0<=z_32<=1
+0<=alpha_32<=1
+0<=x_33<=1
+0<=y_33<=1
+0<=z_33<=1
+0<=alpha_33<=1
+0<=x_34<=1
+0<=y_34<=1
+0<=z_34<=1
+0<=alpha_34<=1
+0<=x_35<=1
+0<=y_35<=1
+0<=z_35<=1
+0<=alpha_35<=1
+0<=x_36<=1
+0<=y_36<=1
+0<=z_36<=1
+0<=alpha_36<=1
+0<=x_37<=1
+0<=y_37<=1
+0<=z_37<=1
+0<=alpha_37<=1
+0<=x_38<=1
+0<=y_38<=1
+0<=z_38<=1
+0<=alpha_38<=1
+0<=x_39<=1
+0<=y_39<=1
+0<=z_39<=1
+0<=alpha_39<=1
+0<=x_40<=1
+0<=y_40<=1
+0<=z_40<=1
+0<=alpha_40<=1
+0<=x_41<=1
+0<=y_41<=1
+0<=z_41<=1
+0<=alpha_41<=1
+0<=x_42<=1
+0<=y_42<=1
+0<=z_42<=1
+0<=alpha_42<=1
+0<=x_43<=1
+0<=y_43<=1
+0<=z_43<=1
+0<=alpha_43<=1
+0<=x_44<=1
+0<=y_44<=1
+0<=z_44<=1
+0<=alpha_44<=1
+0<=x_45<=1
+0<=y_45<=1
+0<=z_45<=1
+0<=alpha_45<=1
+0<=x_46<=1
+0<=y_46<=1
+0<=z_46<=1
+0<=alpha_46<=1
+0<=x_47<=1
+0<=y_47<=1
+0<=z_47<=1
+0<=alpha_47<=1
+0<=x_48<=1
+0<=y_48<=1
+0<=z_48<=1
+0<=alpha_48<=1
+0<=x_49<=1
+0<=y_49<=1
+0<=z_49<=1
+0<=alpha_49<=1
+0<=x_50<=1
+0<=y_50<=1
+0<=z_50<=1
+0<=alpha_50<=1
+0<=x_51<=1
+0<=y_51<=1
+0<=z_51<=1
+0<=alpha_51<=1
+0<=x_52<=1
+0<=y_52<=1
+0<=z_52<=1
+0<=alpha_52<=1
+0<=x_53<=1
+0<=y_53<=1
+0<=z_53<=1
+0<=alpha_53<=1
+0<=x_54<=1
+0<=y_54<=1
+0<=z_54<=1
+0<=alpha_54<=1
+0<=x_55<=1
+0<=y_55<=1
+0<=z_55<=1
+0<=alpha_55<=1
+0<=x_56<=1
+0<=y_56<=1
+0<=z_56<=1
+0<=alpha_56<=1
+0<=x_57<=1
+0<=y_57<=1
+0<=z_57<=1
+0<=alpha_57<=1
+0<=x_58<=1
+0<=y_58<=1
+0<=z_58<=1
+0<=alpha_58<=1
+0<=x_59<=1
+0<=y_59<=1
+0<=z_59<=1
+0<=alpha_59<=1
+0<=x_60<=1
+0<=y_60<=1
+0<=z_60<=1
+0<=alpha_60<=1
+0<=x_61<=1
+0<=y_61<=1
+0<=z_61<=1
+0<=alpha_61<=1
+0<=x_62<=1
+0<=y_62<=1
+0<=z_62<=1
+0<=alpha_62<=1
+0<=x_63<=1
+0<=y_63<=1
+0<=z_63<=1
+0<=alpha_63<=1
+0<=x_64<=1
+0<=y_64<=1
+0<=z_64<=1
+0<=alpha_64<=1
+0<=x_65<=1
+0<=y_65<=1
+0<=z_65<=1
+0<=alpha_65<=1
+0<=x_66<=1
+0<=y_66<=1
+0<=z_66<=1
+0<=alpha_66<=1
+0<=x_67<=1
+0<=y_67<=1
+0<=z_67<=1
+0<=alpha_67<=1
+0<=x_68<=1
+0<=y_68<=1
+0<=z_68<=1
+0<=alpha_68<=1
+0<=x_69<=1
+0<=y_69<=1
+0<=z_69<=1
+0<=alpha_69<=1
+0<=x_70<=1
+0<=y_70<=1
+0<=z_70<=1
+0<=alpha_70<=1
+0<=x_71<=1
+0<=y_71<=1
+0<=z_71<=1
+0<=alpha_71<=1
+0<=x_72<=1
+0<=y_72<=1
+0<=z_72<=1
+0<=alpha_72<=1
+0<=x_73<=1
+0<=y_73<=1
+0<=z_73<=1
+0<=alpha_73<=1
+0<=x_74<=1
+0<=y_74<=1
+0<=z_74<=1
+0<=alpha_74<=1
+0<=x_75<=1
+0<=y_75<=1
+0<=z_75<=1
+0<=alpha_75<=1
+0<=x_76<=1
+0<=y_76<=1
+0<=z_76<=1
+0<=alpha_76<=1
+0<=x_77<=1
+0<=y_77<=1
+0<=z_77<=1
+0<=alpha_77<=1
+0<=x_78<=1
+0<=y_78<=1
+0<=z_78<=1
+0<=alpha_78<=1
+0<=x_79<=1
+0<=y_79<=1
+0<=z_79<=1
+0<=alpha_79<=1
+0<=x_80<=1
+0<=y_80<=1
+0<=z_80<=1
+0<=alpha_80<=1
+BINARIES
+x_1
+y_1
+z_1
+x_2
+y_2
+z_2
+x_3
+y_3
+z_3
+x_4
+y_4
+z_4
+x_5
+y_5
+z_5
+x_6
+y_6
+z_6
+x_7
+y_7
+z_7
+x_8
+y_8
+z_8
+x_9
+y_9
+z_9
+x_10
+y_10
+z_10
+x_11
+y_11
+z_11
+x_12
+y_12
+z_12
+x_13
+y_13
+z_13
+x_14
+y_14
+z_14
+x_15
+y_15
+z_15
+x_16
+y_16
+z_16
+x_17
+y_17
+z_17
+x_18
+y_18
+z_18
+x_19
+y_19
+z_19
+x_20
+y_20
+z_20
+x_21
+y_21
+z_21
+x_22
+y_22
+z_22
+x_23
+y_23
+z_23
+x_24
+y_24
+z_24
+x_25
+y_25
+z_25
+x_26
+y_26
+z_26
+x_27
+y_27
+z_27
+x_28
+y_28
+z_28
+x_29
+y_29
+z_29
+x_30
+y_30
+z_30
+x_31
+y_31
+z_31
+x_32
+y_32
+z_32
+x_33
+y_33
+z_33
+x_34
+y_34
+z_34
+x_35
+y_35
+z_35
+x_36
+y_36
+z_36
+x_37
+y_37
+z_37
+x_38
+y_38
+z_38
+x_39
+y_39
+z_39
+x_40
+y_40
+z_40
+x_41
+y_41
+z_41
+x_42
+y_42
+z_42
+x_43
+y_43
+z_43
+x_44
+y_44
+z_44
+x_45
+y_45
+z_45
+x_46
+y_46
+z_46
+x_47
+y_47
+z_47
+x_48
+y_48
+z_48
+x_49
+y_49
+z_49
+x_50
+y_50
+z_50
+x_51
+y_51
+z_51
+x_52
+y_52
+z_52
+x_53
+y_53
+z_53
+x_54
+y_54
+z_54
+x_55
+y_55
+z_55
+x_56
+y_56
+z_56
+x_57
+y_57
+z_57
+x_58
+y_58
+z_58
+x_59
+y_59
+z_59
+x_60
+y_60
+z_60
+x_61
+y_61
+z_61
+x_62
+y_62
+z_62
+x_63
+y_63
+z_63
+x_64
+y_64
+z_64
+x_65
+y_65
+z_65
+x_66
+y_66
+z_66
+x_67
+y_67
+z_67
+x_68
+y_68
+z_68
+x_69
+y_69
+z_69
+x_70
+y_70
+z_70
+x_71
+y_71
+z_71
+x_72
+y_72
+z_72
+x_73
+y_73
+z_73
+x_74
+y_74
+z_74
+x_75
+y_75
+z_75
+x_76
+y_76
+z_76
+x_77
+y_77
+z_77
+x_78
+y_78
+z_78
+x_79
+y_79
+z_79
+x_80
+y_80
+z_80
+EXISTS
+x_1
+z_1
+alpha_1
+x_2
+z_2
+alpha_2
+x_3
+z_3
+alpha_3
+x_4
+z_4
+alpha_4
+x_5
+z_5
+alpha_5
+x_6
+z_6
+alpha_6
+x_7
+z_7
+alpha_7
+x_8
+z_8
+alpha_8
+x_9
+z_9
+alpha_9
+x_10
+z_10
+alpha_10
+x_11
+z_11
+alpha_11
+x_12
+z_12
+alpha_12
+x_13
+z_13
+alpha_13
+x_14
+z_14
+alpha_14
+x_15
+z_15
+alpha_15
+x_16
+z_16
+alpha_16
+x_17
+z_17
+alpha_17
+x_18
+z_18
+alpha_18
+x_19
+z_19
+alpha_19
+x_20
+z_20
+alpha_20
+x_21
+z_21
+alpha_21
+x_22
+z_22
+alpha_22
+x_23
+z_23
+alpha_23
+x_24
+z_24
+alpha_24
+x_25
+z_25
+alpha_25
+x_26
+z_26
+alpha_26
+x_27
+z_27
+alpha_27
+x_28
+z_28
+alpha_28
+x_29
+z_29
+alpha_29
+x_30
+z_30
+alpha_30
+x_31
+z_31
+alpha_31
+x_32
+z_32
+alpha_32
+x_33
+z_33
+alpha_33
+x_34
+z_34
+alpha_34
+x_35
+z_35
+alpha_35
+x_36
+z_36
+alpha_36
+x_37
+z_37
+alpha_37
+x_38
+z_38
+alpha_38
+x_39
+z_39
+alpha_39
+x_40
+z_40
+alpha_40
+x_41
+z_41
+alpha_41
+x_42
+z_42
+alpha_42
+x_43
+z_43
+alpha_43
+x_44
+z_44
+alpha_44
+x_45
+z_45
+alpha_45
+x_46
+z_46
+alpha_46
+x_47
+z_47
+alpha_47
+x_48
+z_48
+alpha_48
+x_49
+z_49
+alpha_49
+x_50
+z_50
+alpha_50
+x_51
+z_51
+alpha_51
+x_52
+z_52
+alpha_52
+x_53
+z_53
+alpha_53
+x_54
+z_54
+alpha_54
+x_55
+z_55
+alpha_55
+x_56
+z_56
+alpha_56
+x_57
+z_57
+alpha_57
+x_58
+z_58
+alpha_58
+x_59
+z_59
+alpha_59
+x_60
+z_60
+alpha_60
+x_61
+z_61
+alpha_61
+x_62
+z_62
+alpha_62
+x_63
+z_63
+alpha_63
+x_64
+z_64
+alpha_64
+x_65
+z_65
+alpha_65
+x_66
+z_66
+alpha_66
+x_67
+z_67
+alpha_67
+x_68
+z_68
+alpha_68
+x_69
+z_69
+alpha_69
+x_70
+z_70
+alpha_70
+x_71
+z_71
+alpha_71
+x_72
+z_72
+alpha_72
+x_73
+z_73
+alpha_73
+x_74
+z_74
+alpha_74
+x_75
+z_75
+alpha_75
+x_76
+z_76
+alpha_76
+x_77
+z_77
+alpha_77
+x_78
+z_78
+alpha_78
+x_79
+z_79
+alpha_79
+x_80
+z_80
+alpha_80
+ALL
+y_1
+y_2
+y_3
+y_4
+y_5
+y_6
+y_7
+y_8
+y_9
+y_10
+y_11
+y_12
+y_13
+y_14
+y_15
+y_16
+y_17
+y_18
+y_19
+y_20
+y_21
+y_22
+y_23
+y_24
+y_25
+y_26
+y_27
+y_28
+y_29
+y_30
+y_31
+y_32
+y_33
+y_34
+y_35
+y_36
+y_37
+y_38
+y_39
+y_40
+y_41
+y_42
+y_43
+y_44
+y_45
+y_46
+y_47
+y_48
+y_49
+y_50
+y_51
+y_52
+y_53
+y_54
+y_55
+y_56
+y_57
+y_58
+y_59
+y_60
+y_61
+y_62
+y_63
+y_64
+y_65
+y_66
+y_67
+y_68
+y_69
+y_70
+y_71
+y_72
+y_73
+y_74
+y_75
+y_76
+y_77
+y_78
+y_79
+y_80
+ORDER
+z_1
+z_2
+z_3
+z_4
+z_5
+z_6
+z_7
+z_8
+z_9
+z_10
+z_11
+z_12
+z_13
+z_14
+z_15
+z_16
+z_17
+z_18
+z_19
+z_20
+z_21
+z_22
+z_23
+z_24
+z_25
+z_26
+z_27
+z_28
+z_29
+z_30
+z_31
+z_32
+z_33
+z_34
+z_35
+z_36
+z_37
+z_38
+z_39
+z_40
+z_41
+z_42
+z_43
+z_44
+z_45
+z_46
+z_47
+z_48
+z_49
+z_50
+z_51
+z_52
+z_53
+z_54
+z_55
+z_56
+z_57
+z_58
+z_59
+z_60
+z_61
+z_62
+z_63
+z_64
+z_65
+z_66
+z_67
+z_68
+z_69
+z_70
+z_71
+z_72
+z_73
+z_74
+z_75
+z_76
+z_77
+z_78
+z_79
+z_80
+y_1
+y_2
+y_3
+y_4
+y_5
+y_6
+y_7
+y_8
+y_9
+y_10
+y_11
+y_12
+y_13
+y_14
+y_15
+y_16
+y_17
+y_18
+y_19
+y_20
+y_21
+y_22
+y_23
+y_24
+y_25
+y_26
+y_27
+y_28
+y_29
+y_30
+y_31
+y_32
+y_33
+y_34
+y_35
+y_36
+y_37
+y_38
+y_39
+y_40
+y_41
+y_42
+y_43
+y_44
+y_45
+y_46
+y_47
+y_48
+y_49
+y_50
+y_51
+y_52
+y_53
+y_54
+y_55
+y_56
+y_57
+y_58
+y_59
+y_60
+y_61
+y_62
+y_63
+y_64
+y_65
+y_66
+y_67
+y_68
+y_69
+y_70
+y_71
+y_72
+y_73
+y_74
+y_75
+y_76
+y_77
+y_78
+y_79
+y_80
+x_1
+x_2
+x_3
+x_4
+x_5
+x_6
+x_7
+x_8
+x_9
+x_10
+x_11
+x_12
+x_13
+x_14
+x_15
+x_16
+x_17
+x_18
+x_19
+x_20
+x_21
+x_22
+x_23
+x_24
+x_25
+x_26
+x_27
+x_28
+x_29
+x_30
+x_31
+x_32
+x_33
+x_34
+x_35
+x_36
+x_37
+x_38
+x_39
+x_40
+x_41
+x_42
+x_43
+x_44
+x_45
+x_46
+x_47
+x_48
+x_49
+x_50
+x_51
+x_52
+x_53
+x_54
+x_55
+x_56
+x_57
+x_58
+x_59
+x_60
+x_61
+x_62
+x_63
+x_64
+x_65
+x_66
+x_67
+x_68
+x_69
+x_70
+x_71
+x_72
+x_73
+x_74
+x_75
+x_76
+x_77
+x_78
+x_79
+x_80
+alpha_1
+alpha_2
+alpha_3
+alpha_4
+alpha_5
+alpha_6
+alpha_7
+alpha_8
+alpha_9
+alpha_10
+alpha_11
+alpha_12
+alpha_13
+alpha_14
+alpha_15
+alpha_16
+alpha_17
+alpha_18
+alpha_19
+alpha_20
+alpha_21
+alpha_22
+alpha_23
+alpha_24
+alpha_25
+alpha_26
+alpha_27
+alpha_28
+alpha_29
+alpha_30
+alpha_31
+alpha_32
+alpha_33
+alpha_34
+alpha_35
+alpha_36
+alpha_37
+alpha_38
+alpha_39
+alpha_40
+alpha_41
+alpha_42
+alpha_43
+alpha_44
+alpha_45
+alpha_46
+alpha_47
+alpha_48
+alpha_49
+alpha_50
+alpha_51
+alpha_52
+alpha_53
+alpha_54
+alpha_55
+alpha_56
+alpha_57
+alpha_58
+alpha_59
+alpha_60
+alpha_61
+alpha_62
+alpha_63
+alpha_64
+alpha_65
+alpha_66
+alpha_67
+alpha_68
+alpha_69
+alpha_70
+alpha_71
+alpha_72
+alpha_73
+alpha_74
+alpha_75
+alpha_76
+alpha_77
+alpha_78
+alpha_79
+alpha_80
+END
