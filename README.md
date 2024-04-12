@@ -14,9 +14,7 @@ For more details we refer to:
 ## Instances
 In the folder MCN_raw/, you find the raw data of the original instances, as they also can be found here: https://github.com/mxmmargarida/Critical-Node-Problem
 
-The folders MCN_Poly/ and MCN_DecisionDependent/ contains instances in the QLP-file format as used in our paper. They are dividided into the basic (two-stage) instances, and the multistage instances.
-
-The folder MCN_DecisionDependent/ contains instances in the QLP-file format as used in our paper. They are dividided into the basic (two-stage) instances, and the multistage instances.
+The folders MCN_Poly/ and MCN_DecisionDependent/ contain instances in the QLP-file format. They are dividided into the basic (two-stage) instances, and the multistage instances. The instances in the Basic/ folder are the same problem as solved in the oroginal paper. The instances in the Multistage/ folder are adapted versions of the basic instances.
 
 ## Solver
 To run the instances given in the QLP-file format you can use our solver Yasol: https://github.com/MichaelHartisch/Yasol
